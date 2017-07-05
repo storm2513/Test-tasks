@@ -10,6 +10,7 @@ E.g.
 
 `max_multiplication('a1b2c3d4e') => nil`
 
+
 ## Task 2
 
 Implement the function to sort array of numbers by amount of '1' in its binary representation. Numbers with identical amount of '1's should be ordered by decimal representation.
